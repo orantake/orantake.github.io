@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Gaonjhwan's Blog!"
 date:   2023-05-01 16:39:44 +0900
 categories: jekyll update
 ---
