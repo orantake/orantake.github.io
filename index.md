@@ -6,9 +6,5 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for Gaonjhwan's bay jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
-
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  Welcome! This is Gaonjhwan's blog.
 </p>
